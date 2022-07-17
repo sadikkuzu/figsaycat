@@ -2,7 +2,7 @@
 Ubuntu w/ figlet, cowsay, lolcat
 
 ```
-docker run -it ctr.run/github.com/sadikkuzu/figsaycat
+docker run --rm -it ghcr.io/sadikkuzu/figsaycat/figsaycat:1.0
 ```
 
-![](img/figsaycat.png)
+[![](img/figsaycat.png)](./examples.md)
